@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  This is only a test. Do not pass GO. Do not collect $200. 
+  This is only a test. Do not pass GO. Do not collect \$200. 
   <!-- END -->
   
   </div>
